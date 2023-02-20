@@ -1,0 +1,23 @@
+{
+  "name": "anon-chatroom",
+  "version": "1.0.0",
+  "description": "Great chat room with great graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshuu/anon-chatroom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshuu/anon-chatroom/issues"
+  },
+  "homepage": "https://github.com/yoshuu/anon-chatroom#readme",
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "socket.io": "^2.3.0"
+  }
+}
